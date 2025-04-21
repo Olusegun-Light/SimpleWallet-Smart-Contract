@@ -100,5 +100,3 @@ event MoneySent(address _beneficiary, uint _amount);
 
 - Avoid transferring contract ownership unless absolutely necessary.
 
-
-# SimpleWallet-Smart-Contract
